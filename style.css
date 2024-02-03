@@ -58,6 +58,10 @@ html {
     font-size: 30px;
 }
 
+.section--light p {
+    line-height: 1.6;
+}
+
 .heading-container__heading--logo {
     width: 60%;
     margin: 2rem;
@@ -102,11 +106,17 @@ html {
 }
 
 .background-container--image5 {
-    background-image: url(./images/notetakinBG\'s2.jpg);
+    background-image: url(./images/notetakinBG\'s\ 1.jpg);
     min-height: 100%;
 }
 
 .div-inside-light {
     line-height: 1.6;
     margin: 10PX;
+}
+
+.div-inside-dark {
+    line-height: 1.6;
+    margin: 10px;
+    font-size: 30px;
 }
