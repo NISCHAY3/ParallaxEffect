@@ -49,27 +49,36 @@ html {
 
 .section {
     text-align: center;
-    padding: 3rem 5rem;
+    padding: 10rem 5rem;
 }
 
 .section--light {
     background-color: rgb(241, 241, 241);
     color: #666;
+    font-size: 30px;
 }
 
 .heading-container__heading--logo {
-    width: 30%;
-    margin: 1rem;
+    width: 60%;
+    margin: 2rem;
 }
 
 .background-container--image2 {
     background-image: url(./images/notetakinBG\'s3.jpg);
     min-height: 80%;
+
 }
 
 .section--dark {
     background-color: #282e34;
     color: #ddd;
+
+}
+
+.inside-dark {
+    font-size: 34px;
+    line-height: 1.6;
+
 }
 
 .background-container--image3 {
@@ -95,4 +104,9 @@ html {
 .background-container--image5 {
     background-image: url(./images/notetakinBG\'s2.jpg);
     min-height: 100%;
+}
+
+.div-inside-light {
+    line-height: 1.6;
+    margin: 10PX;
 }
